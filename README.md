@@ -120,8 +120,9 @@ Restart Delay	10 sec
 
 
 ## Output
+<img width="1919" height="1017" alt="Screenshot 2026-06-07 192856" src="https://github.com/user-attachments/assets/5fcb77de-7abc-4b9e-9339-387b76120fef" />
 
-
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/65393b95-e6bd-4a62-86c3-d86d66dc004a" />
 
 
 
